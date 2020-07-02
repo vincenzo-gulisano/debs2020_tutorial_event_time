@@ -5,7 +5,9 @@ Slides and code from the [ACM DEBS 2020](https://2020.debs.org/) Tutorial titled
 The corresponding paper is available [online](https://2020.debs.org/pdf/debs20-1002.pdf).
 
 The recording of this tutorial can be found at:
+
 https://youtu.be/SW_WS6ULsdY
+
 https://youtu.be/bq3ECNvPwOU
 
 # Setup
